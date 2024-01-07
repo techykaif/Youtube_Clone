@@ -1,0 +1,10 @@
+body{
+    font-family: Roboto,Arial;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color:#212529;
+    background-color: rgba(248, 244, 244, 0.427);
+    padding-top: 60px;
+    padding-left: 85px;
+}
